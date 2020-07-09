@@ -1,6 +1,7 @@
 {
   "name": "@Zakui/data-load-hot",
   "description": "Location data for Sense HAT",
+  "version": "1.0.1",
   "main": "dist/sense-hat-locations.json",
   "scripts": {
     "prebuild": "rimraf dist && mkdirp dist",
