@@ -1,0 +1,61 @@
+{
+  "name": "@Zakui/data-load-hot",
+  "description": "Location data for Sense HAT",
+  "main": "dist/sense-hat-locations.json",
+  "scripts": {
+    "prebuild": "rimraf dist && mkdirp dist",
+    "build": "node ./index.js > dist/sense-hat-locations.json",
+    "coverage": "npm test -- --coverage-report=lcov",
+    "pretest": "standard",
+    "test": "tap test/**/*.js --cov",
+    "test:unit": "tap test/unit/*.js",
+    "test:integration": "tap test/integration/*.js",
+    "semantic-release": "semantic-release pre && npm run build && npm publish && semantic-release post",
+    "watch": "chokidar '**/*.js' -i node_modules -c 'npm test'",
+    "watch:unit": "chokidar '**/*.js' -i node_modules -c 'npm run -s test:unit'",
+    "watch:integration": "chokidar '**/*.js' -i node_modules -c 'npm run -s test:integration'"
+  },
+  "keywords": [
+    "sense",
+    "hat",
+    "locations",
+    "gps",
+    "drc",
+    "congo",
+    "bandundu"
+  ],
+  "author": "Tom Vincent <npm@tlvince.com> (https://tlvince.com/)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chokidar-cli": "^1.2.0",
+    "lodash.camelcase": "^4.0.1",
+    "lodash.kebabcase": "^3.1.1",
+    "lodash.keyby": "^4.0.2",
+    "lodash.transform": "^4.0.1",
+    "lodash.uniq": "^4.0.2",
+    "mkdirp": "^0.5.1",
+    "neat-csv": "^1.1.0",
+    "rimraf": "^2.5.1",
+    "semantic-release": "^4.3.5",
+    "standard": "^5.4.1",
+    "startcase": "^1.0.0",
+    "tap": "^5.4.2"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "dist"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakui/data-load-hot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zakui/data-load-hot/issues"
+  },
+  "homepage": "https://github.com/Zakui/data-load-hot#readme"
+}

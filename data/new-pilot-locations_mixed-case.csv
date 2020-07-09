@@ -1,0 +1,541 @@
+PROVINCE,ZS,ID_AS,AS_,ID_VILLAGE,VILLAGE,LON,LAT,POPULATION,DEF_TYPE
+Bandundu,Mosango,3034001,Kasay,1,Camp Bulungu,18.33594,-4.88567,141,VILLAGE
+Bandundu,Mosango,3034001,Kasay,2,Camp Dibaya,18.35328,-4.94082,229,VILLAGE
+Bandundu,Mosango,3034001,Kasay,3,Camp Kibengi,18.34923,-4.93122,456,VILLAGE
+Bandundu,Mosango,3034001,Kasay,4,Camp Luzolo,18.32284,-4.87937,433,VILLAGE
+Bandundu,Mosango,3034001,Kasay,5,Camp Mbanza,18.35971,-4.95662,160,VILLAGE
+Bandundu,Mosango,3034001,Kasay,6,Kasay Parkin,18.33918,-4.87796,1542,VILLAGE
+Bandundu,Mosango,3034001,Kasay,7,Kasay Village,18.31096,-4.883,1453,VILLAGE
+Bandundu,Mosango,3034001,Kasay,8,Kibengi Villa,18.33413,-4.94716,487,VILLAGE
+Bandundu,Mosango,3034001,Kasay,9,Mbanza Kikumbi,18.34294,-4.98331,375,VILLAGE
+Bandundu,Mosango,3034001,Kasay,10,Mukilu Poste,18.30971,-4.83673,174,VILLAGE
+Bandundu,Mosango,3034001,Kasay,11,Mukilu Village,18.31533,-4.84312,536,VILLAGE
+Bandundu,Mosango,3034001,Kasay,12,Punza 1,18.31962,-4.83216,277,VILLAGE
+Bandundu,Mosango,3034001,Kasay,13,Punza 2,18.29961,-4.83786,369,VILLAGE
+Bandundu,Mosango,3034001,Kasay,14,Punza Plc,18.3549,-4.81887,97,VILLAGE
+Bandundu,Mosango,3034001,Kasay,15,Samba,18.31052,-4.96642,354,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,16,Gobari 1,18.33601,-5.11309,616,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,17,Gobari 2,18.28017,-5.14202,353,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,18,Gobari 3,18.25841,-5.14506,166,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,19,Kazamba Wa,18.15483,-4.97382,1000,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,20,Kikondji Go,18.16662,-5.04998,408,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,21,Kindambi,18.23775,-5.10074,317,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,22,Kingwadi,18.28474,-4.97845,162,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,23,Kinzamba C,18.24471,-5.0934,251,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,25,Kisamba Ma,18.22012,-5.01195,463,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,26,Kisambakon,18.20311,-4.99819,856,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,27,Kobo,18.27642,-5.04795,307,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,28,Mosango Ma,18.26202,-4.98548,385,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,29,Mowaka,18.32151,-5.00274,384,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,31,Mutelu,18.22223,-5.06932,662,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,76,Muboko,18.13583,-4.95348,734,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,150,Kinzamba V,18.25189,-5.0395,279,VILLAGE
+Bandundu,Mosango,3034002,Kinzamba I,546,Koshi Kindamba,18.242,-5.0973,432,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,24,Mosenge,18.00146,-5.04206,402,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,32,F.FELO,17.99723,-5.1072,139,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,33,F.Kafungu,18.09784,-5.06959,70,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,34,F.Kasende,17.9744,-5.12047,102,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,35,F.Kimafu,17.9686,-5.11437,74,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,36,F.Mupunzi,17.96192,-5.11425,90,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,37,F.Tombi,18.05918,-5.04477,83,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,39,Kikamba,17.99757,-5.06644,430,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,40,Kinzambamb,17.99917,-5.07579,400,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,41,Kilembe,18.05095,-5.05363,821,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,42,Kindalakiko,18.00145,-5.12026,488,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,43,Kindalangan,17.98117,-5.11169,504,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,44,Kingombening,18.03885,-5.10803,432,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,45,Kingoykisemi,18.03413,-5.09899,664,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,46,Kinzambacen,17.99382,-5.08792,728,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,47,Kinzambafo,17.99943,-5.0785,379,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,53,Lokosibamba,18.09018,-5.05658,801,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,54,Lokosibango,18.06377,-5.0588,741,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,55,Mbulu,17.9824,-5.11961,884,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,56,Mbushi,18.02458,-5.07172,385,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,57,Kikwati,18.05345,-5.05203,834,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,58,Mosenge Hpk,18.00355,-5.04127,1097,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,59,Mwanakangu,18.03349,-5.07925,353,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,87,Kipashi,18.0152,-5.05605,653,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,90,Kipatamusu,17.93643,-5.16821,1079,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,110,Kivunda,17.94923,-5.14263,283,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,162,Kibwimba,17.99104,-5.13295,1015,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,163,Kinzambayeye,17.97565,-5.09955,664,VILLAGE
+Bandundu,Mosango,3034003,Kinzamba II,543,Poste Yeye,17.95599,-5.12362,147,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,60,Bangalala,18.11682,-5.36984,984,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,61,Camp Bankoto,18.19815,-5.30503,56,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,62,Kakundji,18.18346,-5.25856,430,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,63,Kambu,18.18875,-5.19622,57,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,64,Kamingu,18.18324,-5.34289,371,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,65,Kanoshi,18.15906,-5.26672,240,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,66,Kasodi,18.18285,-5.32675,450,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,67,Kihunga,18.19437,-5.21031,504,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,68,Kingombe,18.13129,-5.32355,468,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,70,Luhemba Kafi,18.18685,-5.22739,852,VILLAGE
+Bandundu,Mosango,3034004,Kinzanda,171,Kinzanda,18.14691,-5.29173,452,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,48,Kiboti,17.97137,-5.22838,537,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,69,Kinzenzengo,17.96392,-5.29976,750,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,71,Kandondolo,17.96611,-5.28224,208,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,72,Kazamba,17.9746,-5.32996,260,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,74,Kifungula,17.95344,-5.30565,1082,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,75,Kimbimbi,17.97292,-5.23422,1175,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,77,Kitombe,18.06372,-5.29592,804,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,78,Kitshay,18.05863,-5.33734,317,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,79,Kivanda,17.96674,-5.24986,734,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,80,Luhemba,18.0334,-5.30645,217,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,81,Mukukukandond,17.96794,-5.27783,446,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,82,Mulutu,18.04867,-5.25582,1008,VILLAGE
+Bandundu,Mosango,3034005,Kinzenzengo,83,Mundu,18.03806,-5.32033,145,VILLAGE
+Bandundu,Mosango,3034006,Kipembe,50,Kipembe,17.97908,-5.1785,1809,VILLAGE
+Bandundu,Mosango,3034006,Kipembe,84,Bisangi,18.05597,-5.21797,167,VILLAGE
+Bandundu,Mosango,3034006,Kipembe,85,Kimbusi,17.97333,-5.20252,227,VILLAGE
+Bandundu,Mosango,3034006,Kipembe,86,Kingombe,17.98238,-5.15395,692,VILLAGE
+Bandundu,Mosango,3034006,Kipembe,88,Kisala,18.03206,-5.15899,203,VILLAGE
+Bandundu,Mosango,3034006,Kipembe,89,Kumbi,18.02082,-5.16867,108,VILLAGE
+Bandundu,Mosango,3034006,Kipembe,172,Nzombi,17.97566,-5.21437,1681,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,91,Ferme Mbanza,18.28136,-4.95655,45,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,92,Ferme Ndunga,18.27482,-4.9657,33,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,93,Kahemba,18.18095,-4.91285,94,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,94,Kazamba,18.24546,-4.85511,448,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,95,Kikakala,18.27678,-4.83427,177,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,96,Kikama,18.20938,-4.85812,632,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,97,Kikwati,18.28066,-4.94908,44,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,98,Kimanu,18.27848,-4.8866,325,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,99,Kindundu,18.25511,-4.88992,849,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,100,Kipwanga,18.23217,-4.87294,640,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,101,Kipwanga Cs,18.24041,-4.86066,33,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,102,Koshiavion,18.20309,-4.95839,39,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,103,Koshibalaba,18.22969,-4.94448,284,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,104,Koshibarriere,18.20753,-4.92107,776,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,105,Koshimuluwa,18.20771,-4.92102,376,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,106,Maboki,18.28546,-4.92438,388,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,107,Mbwedi Fiot,18.25888,-4.84961,790,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,108,Sangi,18.28209,-4.91684,229,VILLAGE
+Bandundu,Mosango,3034007,Kipwanga,109,Yoko,18.25118,-4.94555,356,VILLAGE
+Bandundu,Mosango,3034008,Kitambo,111,Kitamboplate,18.04922,-4.75417,301,VILLAGE
+Bandundu,Mosango,3034008,Kitambo,112,Kitamboposte,18.0441,-4.75549,768,VILLAGE
+Bandundu,Mosango,3034008,Kitambo,113,Kitambovilla,18.03916,-4.76459,343,VILLAGE
+Bandundu,Mosango,3034008,Kitambo,114,Mamboma,18.00104,-4.7474,949,VILLAGE
+Bandundu,Mosango,3034008,Kitambo,115,Mwinda,18.01272,-4.74472,1708,VILLAGE
+Bandundu,Mosango,3034008,Kitambo,177,Kinangulu,18.03817,-4.71424,974,VILLAGE
+Bandundu,Mosango,3034008,Kitambo,182,Pasasi,18.02902,-4.74876,943,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,30,Mundanda,18.21245,-4.75145,421,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,49,Sondji,18.21759,-4.76303,1028,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,117,Bagata,18.27451,-4.80489,420,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,118,Kamba,18.22693,-4.78074,623,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,119,Kiyansi,18.20919,-4.79339,588,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,120,Kumbi Poste,18.25393,-4.78221,657,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,121,Kumbivillage,18.25309,-4.7781,473,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,122,Kwati,18.26962,-4.79589,510,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,123,Kwaya,18.27672,-4.76424,668,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,124,Mazemba,18.24137,-4.74481,398,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,125,Mbwedinene,18.22809,-4.81806,668,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,126,Mibambi,18.29691,-4.78336,171,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,127,Misimbidi,18.26857,-4.77529,156,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,128,Mulondo,18.20328,-4.75467,198,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,130,Ngombe,18.27659,-4.78957,97,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,131,Nzombi,18.24,-4.81007,50,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,132,Poste Kiyansi,18.22612,-4.80109,134,VILLAGE
+Bandundu,Mosango,3034009,Kumbi Mbwana,133,Poste Mibambi,18.31486,-4.78168,85,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,38,Kingoy,18.04725,-5.10916,905,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,116,Kanika,18.09319,-5.0001,1574,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,129,Mushima,18.14407,-5.04978,525,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,135,Butindi,18.07299,-5.09466,363,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,136,Kabeba,18.16836,-5.11659,241,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,138,Kimafu,18.04767,-5.16949,272,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,139,Kimbamba,18.13203,-5.18672,170,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,140,Kimvunzi,18.16856,-5.13601,395,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,143,Kinzasi,18.16168,-5.10847,199,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,144,Luteki,18.11852,-5.15248,116,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,145,M Ngunguvilla,18.09824,-5.11457,304,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,146,Mangungu,18.10424,-5.11482,30,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,147,Misongo,18.11547,-5.21531,97,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,149,Mutanunu,18.08978,-5.14208,37,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,151,Ngadi,18.15447,-5.08846,243,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,152,Setuka,18.08987,-4.98472,879,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,153,Vushi,18.06177,-5.18944,151,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,211,Kindinga,18.05405,-5.13782,572,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,216,Mutema,18.08901,-5.15718,187,VILLAGE
+Bandundu,Mosango,3034010,Mangungu,545,Mambata,18.137,-5.0498,218,VILLAGE
+Bandundu,Mosango,3034011,Mosango,51,Kumbibanga,18.04422,-4.82364,1071,VILLAGE
+Bandundu,Mosango,3034011,Mosango,134,Kumbifioti,18.00238,-4.80544,286,VILLAGE
+Bandundu,Mosango,3034011,Mosango,154,C/Kalina,18.11956,-4.83533,161,VILLAGE
+Bandundu,Mosango,3034011,Mosango,155,C/Kibalula,18.12535,-4.82286,417,VILLAGE
+Bandundu,Mosango,3034011,Mosango,156,C/Majorité,18.12529,-4.83433,422,VILLAGE
+Bandundu,Mosango,3034011,Mosango,157,C/Pompe,18.11256,-4.84331,6691,VILLAGE
+Bandundu,Mosango,3034011,Mosango,158,Kibwingi,18.16315,-4.8288,206,VILLAGE
+Bandundu,Mosango,3034011,Mosango,159,Kikondji,18.14034,-4.92255,972,VILLAGE
+Bandundu,Mosango,3034011,Mosango,160,Kimbuku,17.99923,-4.82716,240,VILLAGE
+Bandundu,Mosango,3034011,Mosango,161,Kingwangala,18.15316,-4.90125,353,VILLAGE
+Bandundu,Mosango,3034011,Mosango,164,Kumbimako,18.03958,-4.82181,814,VILLAGE
+Bandundu,Mosango,3034011,Mosango,165,Kwati,18.06745,-4.8237,204,VILLAGE
+Bandundu,Mosango,3034011,Mosango,166,Luzasa,18.15204,-4.8645,524,VILLAGE
+Bandundu,Mosango,3034011,Mosango,167,Mbanza,18.15389,-4.8048,275,VILLAGE
+Bandundu,Mosango,3034011,Mosango,168,Mosangosect,18.11612,-4.88451,1085,VILLAGE
+Bandundu,Mosango,3034011,Mosango,169,Mosangovill,18.12324,-4.8356,1238,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,137,Kipasi,18.16922,-4.5944,1471,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,170,Kimbimbi,18.1402,-4.68094,660,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,173,Kongo,18.15444,-4.69521,540,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,174,Mavula,18.14824,-4.67906,532,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,175,Mbambalako,18.17224,-4.63909,607,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,176,Mbanzamund,18.17182,-4.67523,1223,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,178,Mudiambu,18.15126,-4.65989,863,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,217,Kimwanza,18.17027,-4.65264,946,VILLAGE
+Bandundu,Mosango,3034012,Mudiambu,223,Mikwati,18.12564,-4.66251,559,VILLAGE
+Bandundu,Mosango,3034013,Muluma,141,Kisala Lupa,18.06274,-4.75667,975,VILLAGE
+Bandundu,Mosango,3034013,Muluma,179,Bibuluku,18.13207,-4.731,217,VILLAGE
+Bandundu,Mosango,3034013,Muluma,180,Bunda,18.10455,-4.75272,359,VILLAGE
+Bandundu,Mosango,3034013,Muluma,181,Kindundu,18.09531,-4.77085,211,VILLAGE
+Bandundu,Mosango,3034013,Muluma,183,Kivamva Vill,18.11208,-4.73318,74,VILLAGE
+Bandundu,Mosango,3034013,Muluma,184,Kivamvamiss,18.11292,-4.7311,469,VILLAGE
+Bandundu,Mosango,3034013,Muluma,185,Mbujingomb,18.11652,-4.72274,266,VILLAGE
+Bandundu,Mosango,3034013,Muluma,186,Muluma Centr,18.09231,-4.76303,1712,VILLAGE
+Bandundu,Mosango,3034013,Muluma,187,Mulumavilla,18.09622,-4.75539,143,VILLAGE
+Bandundu,Mosango,3034013,Muluma,188,Mundonda1,18.07845,-4.77893,884,VILLAGE
+Bandundu,Mosango,3034013,Muluma,189,Mundonda2,18.09441,-4.77583,360,VILLAGE
+Bandundu,Mosango,3034013,Muluma,190,Musumba,18.14642,-4.72137,380,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,191,Kabeba,18.1986,-4.79976,561,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,192,Kabeba 2,18.19098,-4.80957,252,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,193,Kimolo,18.17191,-4.73643,209,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,194,Kimolo2,18.18044,-4.74751,77,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,195,Kisala,18.14573,-4.73171,296,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,196,Kiyamba,18.18694,-4.84677,553,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,197,Matundu,18.17277,-4.80063,366,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,198,Muwanda,18.16748,-4.75288,125,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,199,Ngongokahu,18.14392,-4.77925,253,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,200,Ngongokazi,18.14307,-4.7697,203,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,201,Ngongomukw,18.15312,-4.77893,614,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,202,Ngula,18.17539,-4.75839,465,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,203,Polongo,18.19395,-4.81294,213,VILLAGE
+Bandundu,Mosango,3034014,Muwanda Koso,204,Poste Muwanda,18.16865,-4.76067,126,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,73,Kinzuku,18.0643,-4.65425,921,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,142,Sakambanza,18.07616,-4.684,988,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,148,Tumikavilla,18.09542,-4.68961,519,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,205,Kikasakasa,18.06761,-4.66601,161,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,206,Kimbandanji,18.08181,-4.71072,470,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,207,Kimputuplc,18.05887,-4.66049,206,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,208,Kingafioti,18.12502,-4.69772,412,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,209,Kingoma,18.04768,-4.68532,523,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,210,Kingomamwa,18.05325,-4.68353,282,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,212,Kisalangubu,18.07682,-4.63911,373,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,213,Mabamfu,18.07307,-4.70424,243,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,214,Mbelo Munbonga,18.10611,-4.67116,263,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,215,Mundonda,18.14253,-4.70241,263,VILLAGE
+Bandundu,Mosango,3034015,Tumikia,218,Tumikia Mc,18.09057,-4.68365,1246,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,52,Kimbwalu1,18.24575,-4.72142,459,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,219,Kayanda,18.20618,-4.72532,977,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,220,Kibwanga,18.20072,-4.7087,321,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,221,Kimbandaku,18.16885,-4.7122,857,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,222,Kimbwalu 2,18.22497,-4.71927,279,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,224,Kindundubason,18.1851,-4.69352,299,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,225,Kiseki,18.19464,-4.68435,359,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,226,Kumbimuziazia,18.18052,-4.72109,584,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,227,Mbelokibwa,18.18729,-4.70589,354,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,228,Mbelolufun,18.17277,-4.70868,222,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,229,Mundonda,18.19044,-4.73842,461,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,230,Musukubengi,18.20734,-4.71189,74,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,231,Poste Kongo,18.16308,-4.70789,139,VILLAGE
+Bandundu,Mosango,3034016,Yenzi,232,Yenzi,18.20502,-4.70888,846,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,233,Bengi,17.75883,-4.46601,466,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,234,Bukanga Ng,17.75261,-4.40136,817,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,235,Kibay,17.72727,-4.41615,1467,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,236,Kina Ng,17.72366,-4.47206,471,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,237,Kindundu,17.76699,-4.447,340,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,238,Kinkwe   Nzey,17.75657,-4.46859,140,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,239,Kiseledi,17.71149,-4.4723,351,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,240,Manie  Miboti,17.69586,-4.46923,1324,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,241,Mbanza  W NS,17.81046,-4.47592,349,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,242,Mbaya,17.745,-4.49224,993,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,243,Muwele,17.79166,-4.50798,334,VILLAGE
+Bandundu,Yasa Bonga,3047001,Bengi,244,Pombe,17.78764,-4.43904,229,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,245,Bilili  V,18.04024,-4.26905,775,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,246,Bilili C,18.04501,-4.27504,714,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,247,Buziki,18.04651,-4.28809,2890,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,248,Kipumusu,18.09927,-4.29661,205,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,249,Kkt Mubw,18.05969,-4.21871,1221,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,250,Manie,18.0675,-4.19716,1166,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,251,Mubwa  M,18.08211,-4.22411,1118,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,252,Mubwa  Nt,18.08211,-4.22411,1094,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,253,Munkaya,18.09915,-4.26322,1162,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,254,Muwaka,18.10271,-4.2665,212,VILLAGE
+Bandundu,Yasa Bonga,3047002,Bilili,255,Pukusu,18.09035,-4.28876,2818,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,256,Buseke,17.99836,-4.21045,1480,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,257,Bwatundu,18.0172,-4.17665,4188,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,258,Dunga I,17.99742,-4.24798,2040,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,259,Dunga II,18.00331,-4.21851,509,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,260,Kilaka,17.95863,-4.17431,40,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,261,Ludala,17.9809,-4.20866,629,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,262,Mipelenge,17.99833,-4.18664,1383,VILLAGE
+Bandundu,Yasa Bonga,3047003,Buseke,263,Sangi,17.95808,-4.19155,162,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,264,Bakonda,17.67538,-4.63624,313,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,265,Camp Kimba,,,57,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,266,Dunda,17.69831,-4.56504,1296,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,267,Dunda  Us,17.68176,-4.5526,637,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,268,Kimbiki,17.67884,-4.64232,420,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,269,Kimwela,17.67604,-4.6705,1165,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,270,Kindambi,17.69117,-4.6068,1117,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,271,Kingoma,17.68406,-4.61287,325,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,272,Kisoko,17.66063,-4.67792,976,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,273,Kiwilu,17.68374,-4.65413,1399,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,274,Mumbanda,17.69058,-4.56416,1194,VILLAGE
+Bandundu,Yasa Bonga,3047004,Dunda,275,Teba,17.69574,-4.5863,481,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,276,Fula,17.95209,-4.63758,1365,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,277,Kazamba,17.97672,-4.59296,324,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,278,Kikongo,17.9188,-4.55718,580,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,279,Kikonzi Mat,17.93895,-4.67333,619,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,280,Kikonzi Mf,17.95951,-4.57462,471,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,281,Kimbanzi,17.96411,-4.61361,421,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,282,Kimbembo,17.94533,-4.57819,450,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,283,Kimbulu,17.93196,-4.60514,620,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,284,Kimbumba,17.97503,-4.57932,470,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,285,Kingombe,17.95377,-4.60368,64,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,286,Kintotla,17.90219,-4.60604,900,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,287,Kipalanga,17.91869,-4.62976,522,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,288,Kisangani,17.92015,-4.58384,272,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,289,Kisembo,17.96537,-4.66431,1804,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,290,Kisombo,17.90585,-4.65115,1126,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,291,Mayumbu,17.92932,-4.53438,120,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,292,Mbanza Mu,17.91861,-4.55887,676,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,293,Miboti,17.97836,-4.59769,978,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,294,Mitimiti,17.95844,-4.64919,450,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,295,Ngondi,17.97193,-4.6089,3451,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,296,Nzombi,17.91987,-4.55479,331,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,297,Pont Kafi,17.97804,-4.55117,141,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,298,Sakambanza,17.90317,-4.62807,503,VILLAGE
+Bandundu,Yasa Bonga,3047005,Fula,299,Yelenge,17.96143,-4.62516,136,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,300,Bulangunga,17.94813,-4.37232,247,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,301,Kiamfu  I,17.99894,-4.35457,743,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,302,Kiamfu Lu,17.99894,-4.35457,465,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,303,KiamfuII,18.01481,-4.36651,517,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,304,Kibwari,18.00718,-4.3383,934,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,305,Kingonzi,18.00293,-4.39575,209,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,306,Kinzamba,17.97892,-4.34791,163,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,307,Kisembo,17.98542,-4.43495,469,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,308,Kizia I,18.02057,-4.43227,923,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,309,Kulungu,17.9574,-4.41366,103,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,310,Mawa,18.05979,-4.32862,394,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,311,Mitoy Ce,18.02725,-4.37697,795,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,312,Mitoy V,18.02595,-4.37913,436,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,313,Mukoko  II,17.98783,-4.43747,173,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,314,Mundonda,18.06062,-4.32885,1245,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,315,Ngalangi,17.96162,-4.3588,693,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,316,Nzombi,17.9768,-4.43299,460,VILLAGE
+Bandundu,Yasa Bonga,3047006,Kiamfu,317,Teti,17.9561,-4.40745,464,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,318,B W EZO,18.06607,-4.60477,224,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,319,Bwala Yu,18.04791,-4.61354,1045,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,320,Kamboko,18.06582,-4.56332,35,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,321,Kasota,18.06151,-4.6012,58,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,322,Kibwadi,18.06001,-4.5793,565,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,323,Kimb Ing II,18.04701,-4.58911,214,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,324,Kimbing  M,18.05454,-4.59356,634,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,325,Kimbinga I,18.05135,-4.59568,426,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,326,Kimbumba,18.09286,-4.57456,413,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,327,Kimwanza,18.03886,-4.58697,1341,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,328,Kindambi,18.08276,-4.56569,685,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,329,Kindongo,18.06154,-4.60103,311,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,330,Kindongo V,18.06601,-4.60647,295,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,331,Kingulu,18.06966,-4.59883,361,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,332,Kiselele,18.03779,-4.5745,236,VILLAGE
+Bandundu,Yasa Bonga,3047007,Kimbinga,333,Mazinga,18.0544,-4.5671,430,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,334,C C Rouge,17.94258,-4.34117,231,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,335,Camp Parce,17.94938,-4.34014,1771,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,336,Camp Stad,17.94725,-4.32426,1358,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,337,Kimanseke,17.95612,-4.34733,344,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,338,Kimburi,17.99547,-4.31513,703,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,339,Kingombe,17.9812,-4.28767,1271,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,340,Kinkuku,17.99345,-4.2962,844,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,341,Lubolo,17.96018,-4.35195,559,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,342,Mbawimi,17.99873,-4.31657,691,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,343,Mokamo Mungie,17.97061,-4.33332,642,VILLAGE
+Bandundu,Yasa Bonga,3047008,Kimburi,344,Pupu,17.94969,-4.32907,788,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,345,Bondo II,17.88609,-4.48811,596,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,346,Bulambemba,17.92867,-4.5246,602,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,347,Kazamba Poste,17.8435,-4.56093,285,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,348,Kazamba Village,17.84577,-4.55122,210,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,349,Kilembe,17.86709,-4.56214,925,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,350,Kimbanda,17.87139,-4.55978,822,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,351,Kimbinga,17.92817,-4.51593,315,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,352,Kimbwayamu,17.87952,-4.53589,1273,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,353,Kinkama,17.83543,-4.51107,831,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,354,Kintulu,17.91053,-4.50442,1057,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,355,Kipindi,17.85958,-4.52371,596,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,356,Kisala Bea,17.90076,-4.49976,304,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,357,Kisala Village,17.89291,-4.49967,361,VILLAGE
+Bandundu,Yasa Bonga,3047009,Kimbwayamu,358,Kisangani,17.92264,-4.51937,571,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,359,Kialu B,18.05211,-4.65295,1094,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,360,Kimbakalanga,18.02792,-4.70491,138,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,361,Kimbimbi  P,18.05647,-4.64475,230,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,362,Kimputu,18.03166,-4.67791,196,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,363,Kimputu  II,18.02953,-4.69148,1049,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,364,Kimputu I,18.03113,-4.67467,1474,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,365,Kimputu V,18.02936,-4.66981,1037,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,366,Kipalanga,18.04132,-4.66388,192,VILLAGE
+Bandundu,Yasa Bonga,3047010,Kimputu,367,Muyalu,18.05172,-4.6558,261,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,526,Bukanga Nzadi,17.73251,-4.52472,395,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,531,Kayeye Village,17.73693,-4.57505,481,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,532,Kimwanza,17.74077,-4.52352,100,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,533,Kina Kaboba I,17.75352,-4.52673,1021,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,534,Kina Kaboba II,17.74424,-4.5267,767,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,535,Kindia I,17.74854,-4.5428,544,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,537,Kisala Luie,17.70572,-4.5604,1116,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,538,Kitumba,17.76399,-4.57438,503,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,539,Mabanza,17.74869,-4.60534,1180,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,540,Mufuma I,17.72195,-4.53723,148,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,541,Mundonda Vanga/Manu Manzambi,17.70474,-4.54742,920,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,542,Kimbambi,17.74869,-4.60534,397,VILLAGE
+Bandundu,Yasa Bonga,3047011,Kina Kaboba,544,Kayeye II,17.72854,-4.56882,483,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,368,Bondo,17.87799,-4.40494,742,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,369,Bumba K,17.85233,-4.35288,430,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,370,Kingoma Dibu,17.76702,-4.35689,115,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,371,Kambumba,17.86706,-4.42044,297,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,372,Kiboko,17.7999,-4.37486,102,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,373,Kimwanza,17.79833,-4.37232,811,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,374,Kindambi,17.80597,-4.4302,154,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,375,Kingangu,17.83523,-4.45624,299,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,376,Kinzamba,17.78247,-4.3419,74,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,377,Kisala M,17.77698,-4.40204,446,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,378,Kitoy Cit,17.81803,-4.4041,6106,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,379,Kitoy V,17.84054,-4.39124,829,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,380,Malela,17.84107,-4.33057,711,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,381,Misimbidi,17.80654,-4.37278,575,VILLAGE
+Bandundu,Yasa Bonga,3047012,Kitoy,382,Mosango,17.85189,-4.34242,344,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,383,Bwatundu,18.12387,-4.45825,1139,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,384,Dimbi K,18.12575,-4.43997,2128,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,385,Kianga,18.0303,-4.45702,744,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,386,Kimbushi,18.09812,-4.44953,1396,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,387,Kiniati,18.03881,-4.47,138,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,388,Kizia II,18.03683,-4.42764,287,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,389,Kwaya C,18.06123,-4.51676,1729,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,390,Kwaya V,18.07913,-4.49651,428,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,391,Lombo C,18.05632,-4.46538,417,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,392,Lombo K,18.05174,-4.45501,117,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,393,Lombo V,18.06056,-4.46919,590,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,394,Lunda,18.06687,-4.47949,453,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,395,Mipelenge,18.11898,-4.50348,850,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,396,Mukala,18.09551,-4.51456,290,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,397,Musekedi,18.06728,-4.50071,125,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,398,Ngulmusitu,18.03938,-4.43425,753,VILLAGE
+Bandundu,Yasa Bonga,3047013,Kwaya,399,Tatu,18.10005,-4.49453,521,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,400,Ba Lulau,17.90292,-4.29417,838,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,401,Braza,17.93213,-4.31699,361,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,402,Bulangunga,17.90873,-4.27497,395,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,403,Kimbi Nsay,17.93277,-4.23552,790,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,404,Kimputu,17.90266,-4.37245,606,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,405,Kimwa  Twala,17.90667,-4.3496,748,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,406,Kimwaz Boma,17.87857,-4.37235,495,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,407,Kingwe    I,17.86903,-4.35384,242,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,408,Kingwe  II,17.88081,-4.33364,255,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,409,Lulau,17.9158,-4.29883,1265,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,410,Mbende,17.87169,-4.30966,1171,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,411,Mbende  Post,17.88486,-4.31907,315,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,412,Misele,17.89589,-4.3187,328,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,413,Mube,17.85316,-4.28604,81,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,414,Musenge,17.91271,-4.25348,386,VILLAGE
+Bandundu,Yasa Bonga,3047014,Lulau,415,Ngiele,17.86547,-4.27243,151,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,416,Basamba,18.16008,-4.4931,851,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,417,Buseke,18.16216,-4.52611,563,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,418,Kanza,18.10401,-4.54653,502,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,419,Kialu  I,18.13465,-4.54755,284,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,420,Kialu  II,18.13089,-4.55124,571,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,421,Kikonzi,18.09877,-4.5233,634,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,422,Kilunda  I,18.15088,-4.55937,471,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,423,Kilunda  II,18.16616,-4.55571,792,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,424,Kimbumba,18.13272,-4.52718,814,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,425,Luwanga,18.15471,-4.52958,494,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,426,Mbanzial,18.16602,-4.51603,163,VILLAGE
+Bandundu,Yasa Bonga,3047015,Luwanga,427,Zanga,18.1216,-4.53485,608,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,428,Bonga K,17.80792,-4.57332,879,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,429,Dondo Hpk,17.8798,-4.60959,1062,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,430,Kazamba,17.80839,-4.62561,163,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,431,Kimbata  I,17.75534,-4.60613,371,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,432,Kimbata  II,17.76295,-4.61632,350,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,433,Kingomalaku,17.84809,-4.65579,701,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,434,Kivava,17.80987,-4.61052,179,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,435,Makala,17.8553,-4.62864,833,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,436,Mandondo,17.85485,-4.61038,2190,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,437,Miheta,17.8403,-4.65331,270,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,438,Miyanzi  II,17.79797,-4.62638,353,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,439,Miyanzi I,17.78292,-4.6177,479,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,440,Mukangu,17.82162,-4.65464,161,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,441,Saka  C,17.81056,-4.60923,1091,VILLAGE
+Bandundu,Yasa Bonga,3047016,Mandondo,442,Saka V,17.82909,-4.61185,407,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,443,Kabala,18.08279,-4.327,166,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,444,Kambumba,18.12855,-4.42808,1075,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,445,Kimolo,18.10192,-4.31751,3470,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,446,Kingongo,18.07885,-4.43434,544,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,447,Kitumba,18.07293,-4.41475,1041,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,448,Lukala,18.12225,-4.40534,808,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,449,Mbanz A DIM,18.11242,-4.41594,1535,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,450,Mbanza Go,18.10709,-4.3789,577,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,451,Pinzi  I,18.08814,-4.3601,2130,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,452,Sambaseke,18.11465,-4.39094,748,VILLAGE
+Bandundu,Yasa Bonga,3047017,Mbanza Gobari,453,Talangay,18.10888,-4.36959,639,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,454,Ferme Kipata,17.90236,-4.71448,90,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,455,Kimbangi,17.89166,-4.68743,1995,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,456,Kingombe H,17.88576,-4.70729,678,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,457,Kingombe V,17.88712,-4.69734,160,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,458,Kiwawa  II,17.91164,-4.69924,575,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,459,Kiwawa I,17.94174,-4.6979,775,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,460,MATAMAPITA,17.94715,-4.74649,524,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,461,MBANZA MF,17.95343,-4.7177,2612,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,462,MIKAMBU,17.96087,-4.75746,752,VILLAGE
+Bandundu,Yasa Bonga,3047018,Mbanza Mfumu Nkento,463,MIMBONDO,17.90001,-4.6815,535,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,464,Poste Bondo,17.8763,-4.45796,333,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,465,Bumba,17.85315,-4.46869,1185,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,466,Buyulu,17.90137,-4.41032,243,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,467,Kibingu,17.88065,-4.43487,248,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,468,Kimpoko,17.90744,-4.48538,156,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,469,Kimwilu,17.89894,-4.45687,328,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,470,Kinkesa,17.87471,-4.4534,295,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,471,Kwaya,17.91071,-4.48484,182,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,472,Makuku,17.89367,-4.4267,196,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,473,Mbambi M,17.91619,-4.42245,1614,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,474,Mbambi V,17.92112,-4.44847,323,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,475,Mbangi,17.92587,-4.44921,677,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,476,Mbanza W,17.92951,-4.451,1633,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,477,Mukefu,17.86562,-4.46626,150,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,478,Musenge Kimbanda,17.93648,-4.49784,1161,VILLAGE
+Bandundu,Yasa Bonga,3047019,Mbanza Wamba,479,Musenge Kandodi,17.94148,-4.48344,289,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,480,Kazamba,18.10899,-4.57889,287,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,481,Kikula,18.15275,-4.63366,387,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,482,Manzombi,18.15338,-4.61823,932,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,483,Matundu  I,18.10181,-4.60669,450,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,484,MatunduII,18.09913,-4.62881,256,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,485,Mibishi,18.15211,-4.58351,1047,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,486,Mukengi P,18.11519,-4.60411,423,VILLAGE
+Bandundu,Yasa Bonga,3047020,Mukengi,487,Mukengi V,18.13904,-4.59206,881,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,488,Kingondi,17.8357,-4.67612,570,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,489,Kinzamba K,17.75848,-4.65195,762,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,490,Kinzamba S,17.78456,-4.64855,595,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,491,Kipalanga II,17.73747,-4.70523,448,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,492,Kipalanga K,17.73933,-4.66791,2134,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,493,Mubiaki,17.74513,-4.6362,1545,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,494,Munzanga,17.80187,-4.68251,167,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,495,Pelo Kindundu,17.78965,-4.71609,817,VILLAGE
+Bandundu,Yasa Bonga,3047021,Pelo Kumbi,496,Pelo Kumbi,17.76619,-4.69144,742,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,497,Bonga V,17.99641,-4.52677,423,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,498,Bwala Yul V,17.98006,-4.51888,935,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,499,C/Boutique,17.99851,-4.52486,1023,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,500,C/Cke,17.99192,-4.5259,872,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,502,C/Infirmier,17.99597,-4.52706,454,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,503,C/Mafwa,17.99436,-4.52428,919,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,504,C/Mansangi,17.97802,-4.52785,1642,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,505,C/Mulua,17.98759,-4.52279,718,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,506,Kiboko,18.0415,-4.53277,738,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,507,Kilwenge,17.96959,-4.52934,345,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,508,Kimbili  Co,17.93983,-4.52305,730,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,509,Kimbili V,17.95824,-4.53052,466,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,510,Kina Bamba,18.01109,-4.52571,612,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,511,Kina Milundu,18.02768,-4.4819,508,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,512,Kinzamba,17.99593,-4.51542,487,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,513,Kisombo,17.99687,-4.53287,284,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,514,Kiyamba,18.02692,-4.53986,339,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,515,Mabeti,17.9679,-4.52813,432,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,516,Matamba,18.023,-4.53216,384,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,517,Mbanz Mu,18.02382,-4.54433,1021,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,518,Mbanza Nganda,18.00839,-4.48138,697,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,519,Mikula,18.03775,-4.52421,785,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,520,Mukengi,18.01544,-4.52791,638,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,521,Mukoko Yasa,17.98579,-4.45559,1036,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,522,Musenge,18.02563,-4.54541,585,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,523,Ngwambe,17.98927,-4.48417,927,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,524,Yasa,17.97234,-4.50849,836,VILLAGE
+Bandundu,Yasa Bonga,3047022,Yasa,525,Zanga Finda,17.97903,-4.53616,487,VILLAGE
