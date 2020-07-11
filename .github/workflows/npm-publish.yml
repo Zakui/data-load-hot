@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 12
       - run: echo "@zakui:registry=https://npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
-      - run: console.log(`@zakui:registry=https://npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}`)
+      - run: echo "${{ secrets.GITHUB_TOKEN }}"
       - run: npm install
       - run: npm ci
       - run: npm test
